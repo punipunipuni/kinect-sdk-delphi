@@ -1,3 +1,11 @@
+(************************************************************************
+*                                                                       *
+*   NuiApi.h -- This module aggregates all the Natural User             *
+*               Interface(NUI) API headers.                             *
+*                                                                       *
+*   Copyright (c) Microsoft Corp. All rights reserved.                  *
+*                                                                       *
+************************************************************************)
 {$Z4}
 unit NuiApi;
 

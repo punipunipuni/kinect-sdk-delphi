@@ -1,3 +1,11 @@
+(************************************************************************
+*                                                                       *
+*   NuiImageCamera.h -- This module defines the APIs for the Natural    *
+*                       User Interface(NUI) image and camera services.  *
+*                                                                       *
+*   Copyright (c) Microsoft Corp. All rights reserved.                  *
+*                                                                       *
+************************************************************************)
 {$Z4}
 unit NuiImageCamera;
 
